@@ -6,3 +6,5 @@ Descripción de lo que trata el videojuego, además de sus características prin
 En el diagrama de flujo se muestra cómo el jugador crea su personaje, explora los biomas, completa retos, obtiene recompensas y avanza en el juego. Si necesita ayuda, Nix le da pistas. Al completar todos los biomas, termina el juego.
 # FASE 3 / Codigo
 En esta fase ya se ha realizado el codigo en base al analisis y el diagram de flujo los cuales fueron de muhca utilidad par la realizaion del programa.
+# FASE 4 
+Después de todo este proceso pude aprender a utilizar un nueva herramienta como los es GitHub para el almacenamiento de documentos y códigos y con este trabajo queda mas que demostrado que fue divertido aprender esto.
